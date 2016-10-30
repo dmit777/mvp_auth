@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MVP_AuthPanel</string>
+
+    <!-- Errors -->
+    <string name="error.mail.hint">Введден некорректный e-mail адрес</string>
+    <string name="error.short_password.hint">Пароль должен содержать не менее 6 символов</string>
+    <string name="error.fb.hint">Формат ввода: facebook.com/***</string>
+    <string name="error.vk.hint">Формат ввода: vk.com/***</string>
+    <string name="error.twitter.hint">Формат ввода: twitter.com/***</string>
+
+    <!-- Hints -->
+    <string name="main.et_email_hint">Введите E-mail</string>
+    <string name="main.et_password_hint">Введите пароль</string>
+    <string name="main.btn_show_catalog">Смотреть каталог</string>
+    <string name="main.btn_login">Войти</string>
+    <string name="main.unknown_error">Неизвестная ошибка, попытайтесь снова</string>
+
+    <!-- Fonts -->
+    <string name="font_regular">sans-serif</string>
+    <string name="font_light">sans-serif-light</string>
+    <string name="font_condensed">sans-serif-condensed</string>
+    <string name="font_black">sans-serif-black</string>
+    <string name="font_thin">sans-serif-thin</string>
+    <string name="font_medium">sans-serif-medium</string>
+
+
+</resources>
